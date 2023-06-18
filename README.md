@@ -55,8 +55,9 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="mailto:quoctoan040501@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Sunbeamdev-email" />
   </a>
 </div>
 
+<h2>📧 Connect: quoctoan040501@gmail.com</h2>
 
