@@ -59,5 +59,5 @@
   </a>
 </div>
 
-<h2>📧 Connect: quoctoan040501@gmail.com</h2>
+<h2 align="center">📧 Connect: quoctoan040501@gmail.com</h2>
 
